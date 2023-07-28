@@ -1,0 +1,31 @@
+﻿@using MvcOnlineTicariOtomasyon.Models.Siniflar
+@model List<MvcOnlineTicariOtomasyon.Models.CargoTracking>
+
+@{
+    ViewBag.Title = "CurrentCargoTracking";
+    Layout = "~/Views/Shared/_CurrentPanelLayout.cshtml";
+    int adim = 0;
+}
+
+
+
+<h2>Kargo Detay</h2>
+
+<br />
+<table class="table table-striped">
+    <tr>
+        <th>Adım</th>
+        <th>Açıklama</th>
+        <th>Tarih</th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> @{adim++;} @adim</td>
+            <td>@item.Description</td>
+            <td>@item.Date</td>
+        </tr>
+    }
+</table>
+<a href="/Current/NewCurrent/" class="btn btn-success">Yeni Cari Ekle</a>
