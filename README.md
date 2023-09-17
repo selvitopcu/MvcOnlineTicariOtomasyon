@@ -243,10 +243,10 @@ Sosyal medya hesapları ayarlandı.
 ![Proje Resmi](https://resmim.net/cdn/2023/07/30/Sovdyy.png)
 ![Proje Resmi](https://resmim.net/cdn/2023/07/30/SovkJD.png)
 
-![Proje Resmi](https://resmim.net/cdn/2023/07/30/SovNQ7.png)
+![Proje Resmi](https://resmim.net/cdn/2023/09/18/SnzBaD.png)
 ![Proje Resmi](https://resmim.net/cdn/2023/07/30/Sovmf3.png)
 ![Proje Resmi](https://resmim.net/cdn/2023/07/30/SovTzH.png)
-![Proje Resmi](https://resmim.net/cdn/2023/07/30/SovwiR.png)
+![Proje Resmi](https://resmim.net/cdn/2023/09/18/SnzYXI.png)
 
 
 Bu kursu tamamlayarak aşağıdaki sertifikayı almaya hak kazandım
